@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/butyuhao/Documents/GitHub/codeup/100000577
+CMAKE_SOURCE_DIR = /Users/butyuhao/Documents/GitHub/Codeup/100000577
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/100000577.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/100000577.dir/flags.make
 
 CMakeFiles/100000577.dir/main.cpp.o: CMakeFiles/100000577.dir/flags.make
 CMakeFiles/100000577.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/100000577.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/100000577.dir/main.cpp.o -c /Users/butyuhao/Documents/GitHub/codeup/100000577/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/100000577.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/100000577.dir/main.cpp.o -c /Users/butyuhao/Documents/GitHub/Codeup/100000577/main.cpp
 
 CMakeFiles/100000577.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/100000577.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/butyuhao/Documents/GitHub/codeup/100000577/main.cpp > CMakeFiles/100000577.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/butyuhao/Documents/GitHub/Codeup/100000577/main.cpp > CMakeFiles/100000577.dir/main.cpp.i
 
 CMakeFiles/100000577.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/100000577.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/butyuhao/Documents/GitHub/codeup/100000577/main.cpp -o CMakeFiles/100000577.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/butyuhao/Documents/GitHub/Codeup/100000577/main.cpp -o CMakeFiles/100000577.dir/main.cpp.s
 
 CMakeFiles/100000577.dir/hello_world.cpp.o: CMakeFiles/100000577.dir/flags.make
 CMakeFiles/100000577.dir/hello_world.cpp.o: ../hello\ world.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/100000577.dir/hello_world.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/100000577.dir/hello_world.cpp.o -c "/Users/butyuhao/Documents/GitHub/codeup/100000577/hello world.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/100000577.dir/hello_world.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/100000577.dir/hello_world.cpp.o -c "/Users/butyuhao/Documents/GitHub/Codeup/100000577/hello world.cpp"
 
 CMakeFiles/100000577.dir/hello_world.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/100000577.dir/hello_world.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/butyuhao/Documents/GitHub/codeup/100000577/hello world.cpp" > CMakeFiles/100000577.dir/hello_world.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/butyuhao/Documents/GitHub/Codeup/100000577/hello world.cpp" > CMakeFiles/100000577.dir/hello_world.cpp.i
 
 CMakeFiles/100000577.dir/hello_world.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/100000577.dir/hello_world.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/butyuhao/Documents/GitHub/codeup/100000577/hello world.cpp" -o CMakeFiles/100000577.dir/hello_world.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/butyuhao/Documents/GitHub/Codeup/100000577/hello world.cpp" -o CMakeFiles/100000577.dir/hello_world.cpp.s
 
 # Object files for target 100000577
 100000577_OBJECTS = \
@@ -95,7 +95,7 @@ CMakeFiles/100000577.dir/hello_world.cpp.s: cmake_force
 100000577: CMakeFiles/100000577.dir/hello_world.cpp.o
 100000577: CMakeFiles/100000577.dir/build.make
 100000577: CMakeFiles/100000577.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 100000577"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable 100000577"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/100000577.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/100000577.dir/clean:
 .PHONY : CMakeFiles/100000577.dir/clean
 
 CMakeFiles/100000577.dir/depend:
-	cd /Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/butyuhao/Documents/GitHub/codeup/100000577 /Users/butyuhao/Documents/GitHub/codeup/100000577 /Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug /Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug /Users/butyuhao/Documents/GitHub/codeup/100000577/cmake-build-debug/CMakeFiles/100000577.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/butyuhao/Documents/GitHub/Codeup/100000577 /Users/butyuhao/Documents/GitHub/Codeup/100000577 /Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug /Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug /Users/butyuhao/Documents/GitHub/Codeup/100000577/cmake-build-debug/CMakeFiles/100000577.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/100000577.dir/depend
 
