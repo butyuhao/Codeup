@@ -1,0 +1,3 @@
+/Users/butyuhao/Documents/GitHub/Codeup/a1056_mice_and_rice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/butyuhao/Documents/GitHub/Codeup/a1056_mice_and_rice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/butyuhao/Documents/GitHub/Codeup/a1056_mice_and_rice/cmake-build-debug/CMakeFiles/a1056_mice_and_rice.dir
