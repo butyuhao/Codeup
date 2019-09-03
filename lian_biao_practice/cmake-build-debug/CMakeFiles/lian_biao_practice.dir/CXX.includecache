@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/butyuhao/Documents/GitHub/Codeup/lian_biao_practice/main.cpp
+stdlib.h
+-
+stdio.h
+-
+

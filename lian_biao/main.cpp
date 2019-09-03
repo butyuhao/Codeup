@@ -30,7 +30,7 @@ int main() {
     while(L!=NULL){
         printf("%d",L->data);
         L = L->next;
-        
+
     }
 
 }
