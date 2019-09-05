@@ -1,0 +1,3 @@
+/Users/butyuhao/Documents/GitHub/Codeup/qi_huang_hou_hui_shuo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/butyuhao/Documents/GitHub/Codeup/qi_huang_hou_hui_shuo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/butyuhao/Documents/GitHub/Codeup/qi_huang_hou_hui_shuo/cmake-build-debug/CMakeFiles/qi_huang_hou_hui_shuo.dir
