@@ -1,0 +1,3 @@
+/Users/butyuhao/Documents/GitHub/Codeup/fei_bo_na_qi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/butyuhao/Documents/GitHub/Codeup/fei_bo_na_qi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/butyuhao/Documents/GitHub/Codeup/fei_bo_na_qi/cmake-build-debug/CMakeFiles/fei_bo_na_qi.dir
